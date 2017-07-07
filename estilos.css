@@ -1,0 +1,76 @@
+body{
+	font-family: HelveticaNeue;
+}
+
+
+
+
+
+.nav{
+	margin-top: -5em;
+	float: right;
+	padding: 10px;
+	height: 8px;
+ 	font-family: HelveticaNeue;
+  	font-size: 17px;
+  	text-align: center;
+ 	color: #444444;
+  	color: var(--greyish-brown);
+}
+
+a#Vendedores {
+    padding: 15.3px;
+    text-decoration: none;
+}
+
+a#Compradores {
+    padding: 15.3px;
+    text-decoration: none;
+}
+
+a#Registrate {
+    padding: 15.3px ;
+    text-decoration: none ;
+}
+
+a#Inicia {
+    padding: 15.3px ;
+    text-decoration: none ;
+}
+
+h1#vende{
+	color: #fff;
+	text-align: center;
+}
+
+h1#sin{
+	color: #fff;
+	text-align: center;
+}
+
+div#fondo{
+	height: 800px;
+	margin-top: 6em;
+	width: 100%;
+	background-image: url("cdmx-plusvalia-captura-valor-constitucion.jpg");
+	background-repeat: repeat-x;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
